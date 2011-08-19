@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Test"
+date: 2011-08-18 21:57
+comments: true
+categories: 
+
+my first post. testing. testing, **testing**.
+
+##headline?
+
+huh. we'll see if it works.
+---
